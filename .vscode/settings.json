@@ -1,0 +1,5 @@
+{
+  "python.envFile": "${workspaceFolder}/pipeline/.env",
+  "python.terminal.useEnvFile": true,
+  "python.defaultInterpreterPath": "${workspaceFolder}/pipeline/.venv/bin/python"
+}
